@@ -1,0 +1,5 @@
+rootProject.name = 'nowy'
+include 'B3'
+include 'B1'
+include 'B5'
+
