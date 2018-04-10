@@ -8,8 +8,14 @@
       <module name="B3_test" target="1.8" />
       <module name="B5_main" target="1.8" />
       <module name="B5_test" target="1.8" />
+      <module name="n1_main" target="1.8" />
+      <module name="n1_test" target="1.8" />
+      <module name="nowy-nowy_main" target="1.8" />
+      <module name="nowy-nowy_test" target="1.8" />
       <module name="nowy_main" target="1.8" />
+      <module name="nowy_main~1" target="1.8" />
       <module name="nowy_test" target="1.8" />
+      <module name="nowy_test~1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -9,9 +9,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/B3/B3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/B3/B3_main.iml" group="B3" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/B3/B3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/B3/B3_test.iml" group="B3" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/B5/B5.iml" filepath="$PROJECT_DIR$/.idea/modules/B5/B5.iml" group="B5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Downloads-nowy.iml" filepath="$PROJECT_DIR$/.idea/modules/Downloads-nowy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n1.iml" filepath="$PROJECT_DIR$/.idea/modules/n1.iml" group="n1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n1/n1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/n1/n1_main.iml" group="n1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/n1/n1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/n1/n1_test.iml" group="n1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/nowy.iml" filepath="$PROJECT_DIR$/.idea/modules/nowy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy.iml" group="nowy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy_main.iml" group="nowy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled/nowy-nowy_test.iml" group="nowy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/nowy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/nowy_main.iml" group="nowy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nowy_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/nowy_main~1.iml" group="nowy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/nowy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/nowy_test.iml" group="nowy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nowy_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/nowy_test~1.iml" group="nowy" />
     </modules>
   </component>
 </project>

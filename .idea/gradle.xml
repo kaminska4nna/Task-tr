@@ -11,9 +11,20 @@
             <option value="$PROJECT_DIR$/B1" />
             <option value="$PROJECT_DIR$/B3" />
             <option value="$PROJECT_DIR$/B5" />
+            <option value="$PROJECT_DIR$/n1" />
+            <option value="$PROJECT_DIR$/untitled" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/untitled1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/untitled1" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

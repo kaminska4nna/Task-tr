@@ -2,4 +2,7 @@ rootProject.name = 'nowy'
 include 'B3'
 include 'B1'
 include 'B5'
+include 'n1'
+include 'untitled'
+findProject(':untitled')?.name = 'nowy'
 
